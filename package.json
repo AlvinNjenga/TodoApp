@@ -1,0 +1,26 @@
+{
+  "name": "TodoJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlvinNjenga/TodoApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlvinNjenga/TodoApp/issues"
+  },
+  "homepage": "https://github.com/AlvinNjenga/TodoApp#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
